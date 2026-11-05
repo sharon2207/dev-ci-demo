@@ -9,4 +9,3 @@ describe('GET /', () => {
         expect(res.text).toBe('Works on my machine.');
     });
 });
-
